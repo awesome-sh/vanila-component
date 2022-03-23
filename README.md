@@ -1,2 +1,2 @@
-# vanila-component
-VanilaJS로 구현해보는 웹컴포넌트
+### 컴포넌트와 상태관리
+  - Vanila JS 웹 컴포넌트 (Study)
